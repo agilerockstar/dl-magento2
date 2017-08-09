@@ -60,7 +60,7 @@ else {
 
   <?php
 
-if ($error_msg) {
+if (!$error_msg) {
 	echo "
   Cliccando sul pulsante sotto verr&agrave avviato il download del contenuto richiesto. <br /><br /></p>
   
