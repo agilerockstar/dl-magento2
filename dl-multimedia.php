@@ -42,7 +42,7 @@ else {
    property.style.backgroundColor = "#ABAEA2";
    property.style.border = "1px solid #ABAEA2";
    property.disabled = true;
-   window.location = "dl-start.php?key=<?php echo $_GET['key']; ?>>";
+   window.location = "dl-start.php?key=<?php echo $_GET['key']; ?>";
   }
   </script>
  
